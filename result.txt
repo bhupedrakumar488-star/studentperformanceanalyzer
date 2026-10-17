@@ -1,0 +1,7 @@
+===== STUDENT RESULT =====
+Name: RANJEET
+Roll No: 101
+Total Marks: 65
+Percentage: 13.0
+Grade: F
+Result: FAIL
